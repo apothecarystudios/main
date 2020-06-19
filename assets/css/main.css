@@ -2099,7 +2099,7 @@ input, select, textarea {
 
 		.image.featured {
 			display: block;
-			margin: 0 0 2em 0;
+			margin: 0 0 1em 0;
 		}
 
 			.image.featured img {
@@ -2532,7 +2532,7 @@ input, select, textarea {
 	#header {
 		text-align: center;
 		padding: 2em 0 0 0;
-		background-color: #000;
+		background-color: #fff;
 	}
 
 		#header h1 {
@@ -2674,7 +2674,7 @@ input, select, textarea {
 		background-image: url("../../images/banner.jpg");
 		background-position: center center;
 		background-size: cover;
-		height: 28em;
+		height: 45em;
 		text-align: center;
 		position: relative;
 	}
@@ -2717,7 +2717,7 @@ input, select, textarea {
 /* Wrapper */
 
 	.wrapper {
-		padding: 5em 0 3em 0;
+		padding: 2em 0 3em 0;
 	}
 
 		.wrapper.style1 {
@@ -2771,7 +2771,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		padding: 2em 0 4em 0;
+		padding: 2em 0 1em 0;
 	}
 
 		#footer a {
@@ -2785,7 +2785,7 @@ input, select, textarea {
 			}
 
 		#footer .container {
-			margin-bottom: 2em;
+			margin-bottom: 1em;
 		}
 
 		#footer .icons {
@@ -2803,7 +2803,7 @@ input, select, textarea {
 
 		#footer .copyright {
 			color: #999;
-			margin-top: 1.5em;
+			margin-top: .5em;
 			text-align: center;
 			font-size: 0.9em;
 		}
